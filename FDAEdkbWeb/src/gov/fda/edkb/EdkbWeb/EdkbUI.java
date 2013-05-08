@@ -7,7 +7,6 @@ import com.vaadin.event.FieldEvents.TextChangeEvent;
 import com.vaadin.event.FieldEvents.TextChangeListener;
 import com.vaadin.server.FileResource;
 import com.vaadin.server.StreamResource;
-import com.vaadin.server.UserError;
 import com.vaadin.server.VaadinRequest;
 import com.vaadin.server.VaadinService;
 import com.vaadin.ui.BrowserFrame;
